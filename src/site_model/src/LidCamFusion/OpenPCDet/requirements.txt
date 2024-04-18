@@ -1,7 +1,7 @@
 numpy
 llvmlite
 numba
-torch>=1.1
+torch>=2.2.0
 tensorboardX
 easydict
 pyyaml
